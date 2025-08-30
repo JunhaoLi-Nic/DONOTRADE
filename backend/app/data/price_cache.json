@@ -1,0 +1,206 @@
+{
+  "UPST": {
+    "price": 78.36,
+    "timestamp": 1753094148.7913244,
+    "timestamp_formatted": "2025-07-21 20:35:48",
+    "source": "Finnhub"
+  },
+  "WAY": {
+    "price": 38.74,
+    "timestamp": 1750162473.2471342,
+    "timestamp_formatted": "2025-06-17 22:14:33",
+    "source": "Finnhub"
+  },
+  "AXON": {
+    "price": 827.94,
+    "timestamp": 1751365390.9313364,
+    "timestamp_formatted": "2025-07-01 20:23:10",
+    "source": "Finnhub"
+  },
+  "UBER": {
+    "price": 85.12,
+    "timestamp": 1750162474.8014257,
+    "timestamp_formatted": "2025-06-17 22:14:34",
+    "source": "Finnhub"
+  },
+  "CRWD": {
+    "price": 479.39,
+    "timestamp": 1750162475.616626,
+    "timestamp_formatted": "2025-06-17 22:14:35",
+    "source": "Finnhub"
+  },
+  "HIMS": {
+    "price": 59.78,
+    "timestamp": 1750162476.3883522,
+    "timestamp_formatted": "2025-06-17 22:14:36",
+    "source": "Finnhub"
+  },
+  "TSLA": {
+    "price": 329.65,
+    "timestamp": 1753094143.9627326,
+    "timestamp_formatted": "2025-07-21 20:35:43",
+    "source": "Finnhub"
+  },
+  "AMD": {
+    "price": 184.42,
+    "timestamp": 1755165246.1381044,
+    "timestamp_formatted": "2025-08-14 19:54:06",
+    "source": "Finnhub"
+  },
+  "MSFT": {
+    "price": 478.04,
+    "timestamp": 1750217775.1873448,
+    "timestamp_formatted": "2025-06-18 13:36:15",
+    "source": "Finnhub"
+  },
+  "AAPL": {
+    "price": 195.64,
+    "timestamp": 1750217776.0888186,
+    "timestamp_formatted": "2025-06-18 13:36:16",
+    "source": "Finnhub"
+  },
+  "RCAT": {
+    "price": 6.78,
+    "timestamp": 1752235071.6537075,
+    "timestamp_formatted": "2025-07-11 21:57:51",
+    "source": "Finnhub"
+  },
+  "GDDY": {
+    "price": 175.13,
+    "timestamp": 1752143996.266282,
+    "timestamp_formatted": "2025-07-10 20:39:56",
+    "source": "Finnhub"
+  },
+  "IONQ": {
+    "price": 41.21,
+    "timestamp": 1755165243.4751933,
+    "timestamp_formatted": "2025-08-14 19:54:03",
+    "source": "Finnhub"
+  },
+  "APP": {
+    "price": 364.46,
+    "timestamp": 1753094153.4884348,
+    "timestamp_formatted": "2025-07-21 20:35:53",
+    "source": "Finnhub"
+  },
+  "AMZN": {
+    "price": 226.13,
+    "timestamp": 1753094155.3713996,
+    "timestamp_formatted": "2025-07-21 20:35:55",
+    "source": "Finnhub"
+  },
+  "U": {
+    "price": 37.94,
+    "timestamp": 1755165246.7733903,
+    "timestamp_formatted": "2025-08-14 19:54:06",
+    "source": "Finnhub"
+  },
+  "COIN": {
+    "price": 419.78,
+    "timestamp": 1753097022.5342708,
+    "timestamp_formatted": "2025-07-21 21:23:42",
+    "source": "Finnhub"
+  },
+  "SNDK": {
+    "price": 45.35,
+    "timestamp": 1751365391.508986,
+    "timestamp_formatted": "2025-07-01 20:23:11",
+    "source": "Finnhub"
+  },
+  "SPOT": {
+    "price": 772.6,
+    "timestamp": 1751200647.482345,
+    "timestamp_formatted": "2025-06-29 22:37:27",
+    "source": "Finnhub"
+  },
+  "ZETA": {
+    "price": 15.11,
+    "timestamp": 1751287038.93919,
+    "timestamp_formatted": "2025-06-30 22:37:18",
+    "source": "Finnhub"
+  },
+  "TEM": {
+    "price": 60.98,
+    "timestamp": 1753094157.3600516,
+    "timestamp_formatted": "2025-07-21 20:35:57",
+    "source": "Finnhub"
+  },
+  "SAIL": {
+    "price": 22.77,
+    "timestamp": 1751287045.7670658,
+    "timestamp_formatted": "2025-06-30 22:37:25",
+    "source": "Finnhub"
+  },
+  "OKLO": {
+    "price": 55.26,
+    "timestamp": 1751287047.6893325,
+    "timestamp_formatted": "2025-06-30 22:37:27",
+    "source": "Finnhub"
+  },
+  "DUOL": {
+    "price": 370.49,
+    "timestamp": 1753097019.246973,
+    "timestamp_formatted": "2025-07-21 21:23:39",
+    "source": "Finnhub"
+  },
+  "RBRK": {
+    "price": 86.14,
+    "timestamp": 1752235078.9964154,
+    "timestamp_formatted": "2025-07-11 21:57:58",
+    "source": "Finnhub"
+  },
+  "SNOW": {
+    "price": 196.87,
+    "timestamp": 1755165245.5124226,
+    "timestamp_formatted": "2025-08-14 19:54:05",
+    "source": "Finnhub"
+  },
+  "MSTR": {
+    "price": 423.22,
+    "timestamp": 1753097021.8164234,
+    "timestamp_formatted": "2025-07-21 21:23:41",
+    "source": "Finnhub"
+  },
+  "ROOT": {
+    "price": 131.32,
+    "timestamp": 1753097023.918628,
+    "timestamp_formatted": "2025-07-21 21:23:43",
+    "source": "Finnhub"
+  },
+  "ALAB": {
+    "price": 97.02,
+    "timestamp": 1752235069.6121306,
+    "timestamp_formatted": "2025-07-11 21:57:49",
+    "source": "Finnhub"
+  },
+  "DAVE": {
+    "price": 200.49,
+    "timestamp": 1755165242.787671,
+    "timestamp_formatted": "2025-08-14 19:54:02",
+    "source": "Finnhub"
+  },
+  "NU": {
+    "price": 13.03,
+    "timestamp": 1752235081.8272405,
+    "timestamp_formatted": "2025-07-11 21:58:01",
+    "source": "Finnhub"
+  },
+  "META": {
+    "price": 780.08,
+    "timestamp": 1755165244.8321102,
+    "timestamp_formatted": "2025-08-14 19:54:04",
+    "source": "Finnhub"
+  },
+  "HUT": {
+    "price": 21.62,
+    "timestamp": 1753094156.6850927,
+    "timestamp_formatted": "2025-07-21 20:35:56",
+    "source": "Finnhub"
+  },
+  "MBLY": {
+    "price": 14.25,
+    "timestamp": 1755165244.1909997,
+    "timestamp_formatted": "2025-08-14 19:54:04",
+    "source": "Finnhub"
+  }
+}
